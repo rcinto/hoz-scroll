@@ -1,0 +1,1 @@
+A horizontal scrollable theme for Drupal 7.x
